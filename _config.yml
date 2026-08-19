@@ -253,9 +253,8 @@ exclude:
   - vendor
   - _pages/blog.md
   - _pages/repositories.md
-  - _news/annoucement_1.md
-  - _news/annoucement_2.md
-  - _news/annoucement_3.md
+  - _news/announcement_*.md
+  - _posts/
 keep_files:
   - CNAME
   - .nojekyll
