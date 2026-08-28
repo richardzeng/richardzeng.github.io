@@ -15,7 +15,7 @@ module.exports = {
     "table-responsive",
     "af-tooltip",
     "af-popover",
-    "font-weight-bold",
+    // "font-weight-bold",
     "font-weight-medium",
     "font-weight-lighter",
     // medium-zoom injects these at runtime, so they never appear in the static
