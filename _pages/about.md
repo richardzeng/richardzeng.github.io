@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Contact me at 123@456.com
+subtitle: Contact me at <a href="mailto:123@456.com">123@456.com</a>.
 
 profile:
   align: right
