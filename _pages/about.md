@@ -27,11 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<style>
-  font-weight-bold {
-    font-weight: 300;
-  }
-</style>
 
 You can write whatever you want here, and tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
